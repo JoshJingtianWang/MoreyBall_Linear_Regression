@@ -1,4 +1,4 @@
-# EDA MVP
+# Linear Regression MVP
 ## Is "MoreyBall" "moneyball"?
 ##### Josh Wang
 ##### Feb 13 2022
