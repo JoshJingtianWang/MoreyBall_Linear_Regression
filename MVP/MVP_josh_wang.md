@@ -7,7 +7,7 @@
 ---
 ### MVP Overview
 **Goal**:
-The Metropolitan Transportation Authority (MTA) has asked us to investigate when and where they can reduce the number of trains to reduce their budget. I will look at multiple potential factors that affect the MTA ridership.
+The former general manager of the Houston Rockets, Daryl Morey, was the first GM to apply analytics to basketball. His basketball philosophy (dubbed “Moreyball”) favors three-point field goals and lay-ups over mid-range jumpers. It is evident that “Moreyball” has swept over the league in the past five years with most teams adopting the three pointer-dominant strategy, but it is inconclusive whether “Moreyball” has contributed to team wins. With basketball being one of the biggest sports in the world, it would be important to look at if “Moreyball” is actually “money”.
 
 **Process**:
 The primary dataset has been scraped from: https://www.basketball-reference.com/
