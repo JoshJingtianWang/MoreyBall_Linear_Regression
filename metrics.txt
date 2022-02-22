@@ -1,0 +1,38 @@
+before:
+	elastic net:
+	r_squared_train:  0.85198
+	Adjusted R2 train: 0.8473990406504567
+	r_squared_test:  0.80158
+	Adjusted R2 test: 0.7745268897756727
+	sklearn MAE =  1.7426849707230916
+	alpha:  0.03
+	l1_ratio:  1.0
+	
+	lr:
+	[0.84291154 0.83696896 0.84009958 0.8469677  0.8347361 ]
+	Linear Reg CV Mean Score:  0.8403367745083609
+	r_squared_train:  0.85247
+	Adjusted R2 train: 0.8485349199940462
+	r_squared_test:  0.79988
+	Adjusted R2 test: 0.7766552294086402
+	sklearn MAE =  1.7454917246541708
+
+
+after: (split train test by year) (NBA + bball ref data)
+	ElasticNet:
+	r_squared_train:  0.89312
+	Adjusted R2 train: 0.8784141559011388
+	r_squared_test:  0.83017
+	Adjusted R2 test: 0.6666242907128294
+	sklearn MAE =  1.5997779167521275
+	alpha:  0.021
+	l1_ratio:  0.09090909090909091
+	
+	lr:
+	[0.85005026 0.80793277 0.88314151 0.85583469 0.87377576]
+	Linear Reg CV Mean Score:  0.8541469979276244
+	r_squared_train:  0.89422
+	Adjusted R2 train: 0.8803020433074853
+	r_squared_test:  0.82043
+	Adjusted R2 test: 0.6600983651532297
+	sklearn MAE =  1.6496378563452947
